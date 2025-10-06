@@ -2,17 +2,17 @@
 
 This is my first internship project at **ApexPlanet Software Pvt Ltd,** where I created a fully responsive and interactive webpage to demonstrate the **three foundational web technologies:**
 
-### •HTML : For structure and semantic markup \
-### •CSS  : For styling the page \
-### •JS   : For Interactivity \
+### •HTML : For structure and semantic markup
+### •CSS  : For styling the page
+### •JS   : For Interactivity
 
-# 🚀 Features \
-## ◆ HTML-Structure \
+# 🚀 Features
+## ◆ HTML-Structure
 • Semantic structure using <header>,<main>,<div> and <section> \
 • Multiple headings like <h1>,<h2> and <p> for paragraph \
 • <ul> for unorder list of elements \
 • <button> for interactivity \
-## ◆ CSS-Styling \
+## ◆ CSS-Styling
 • Different colors are used \
 • Hover animation and smooth transition \
 • Box position and border radius \
