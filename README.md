@@ -6,12 +6,14 @@ This is my first internship project at **ApexPlanet Software Pvt Ltd,** where I 
 ### •CSS  : For styling the page
 ### •JS   : For Interactivity
 
+---
+
 # 🚀 Features
 ## ◆ HTML-Structure
-• Semantic structure using <header>,<main>,<div> and <section> \
-• Multiple headings like <h1>,<h2> and <p> for paragraph \
-• <ul> for unorder list of elements \
-• <button> for interactivity \
+• Semantic structure using `<header>`,`<main>`,`<div>` and `<section>` \
+• Multiple headings like `(<h1>,<h2>)` and `<p>` for paragraph \
+• `<ul>` for unorder list of elements \
+• `<button>` for interactivity \
 ## ◆ CSS-Styling
 • Different colors are used \
 • Hover animation and smooth transition \
@@ -20,9 +22,12 @@ This is my first internship project at **ApexPlanet Software Pvt Ltd,** where I 
 • Alert Button → Displays a popup message\
 • Simple alert message when clicked the button
 
+---
+
 # 🛠️ Instalation and Setup
 
-1.Clone repository\
+1.Clone repository 
+ ```bash
 [Git Clone](https://github.com/Amrutha-1519/Webpagerepo.git)
 
 2.Open the index.html file in your browser to view the project.
