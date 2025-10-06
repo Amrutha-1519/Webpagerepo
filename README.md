@@ -13,13 +13,13 @@ This is my first internship project at **ApexPlanet Software Pvt Ltd,** where I 
 • Semantic structure using `<header>`,`<main>`,`<div>` and `<section>` \
 • Multiple headings like `(<h1>,<h2>)` and `<p>` for paragraph \
 • `<ul>` for unorder list of elements \
-• `<button>` for interactivity \
+• `<button>` for interactivity 
 ## ◆ CSS-Styling
-• Different colors are used \
+• Different colors are used for **background,Headings** \
 • Hover animation and smooth transition \
-• Box position and border radius \
+• Box position and border radius 
 ## ◆ JavaScript-Interactivity
-• Alert Button → Displays a popup message\
+•**Alert Button →**  Displays a popup message\
 • Simple alert message when clicked the button
 
 ---
