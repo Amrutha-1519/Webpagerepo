@@ -30,4 +30,5 @@ This is my first internship project at **ApexPlanet Software Pvt Ltd,** where I 
  ```bash
 Git Clone https://github.com/Amrutha-1519/Webpagerepo.git
 
+```
 2.Open the index.html file in your browser to view the project.
