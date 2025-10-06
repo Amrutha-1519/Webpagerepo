@@ -28,6 +28,6 @@ This is my first internship project at **ApexPlanet Software Pvt Ltd,** where I 
 
 1.Clone repository 
  ```bash
-[Git Clone](https://github.com/Amrutha-1519/Webpagerepo.git)
+Git Clone https://github.com/Amrutha-1519/Webpagerepo.git
 
 2.Open the index.html file in your browser to view the project.
