@@ -13,7 +13,8 @@ This is my first internship project at **ApexPlanet Software Pvt Ltd,** where I 
 • Semantic structure using `<header>`,`<main>`,`<div>` and `<section>` \
 • Multiple headings like `(<h1>,<h2>)` and `<p>` for paragraph \
 • `<ul>` for unorder list of elements \
-• `<button>` for interactivity 
+• `<button>` for interactivity \
+• `external url` are used 
 ## ◆ CSS-Styling
 • Different colors are used for **background,Headings** \
 • Hover animation and smooth transition \
